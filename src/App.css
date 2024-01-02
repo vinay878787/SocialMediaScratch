@@ -1,0 +1,17 @@
+.container {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+ 
+button{
+    margin-left:5px;
+}
+
+.postCard{
+    max-width:100%;
+    display: flex;
+    justify-content: center;
+    margin:15px;
+    text-align: center;
+}
